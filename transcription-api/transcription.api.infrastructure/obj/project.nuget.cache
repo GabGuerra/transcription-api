@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b3EdlWV06V6+y7DPl6wwUkc3FpHLFk4GSgtg2HrTHOf6ndtWF/D4joFFHTE0+2dvYlNNwjF7UA6b6ceY23PVcA==",
+  "success": true,
+  "projectFilePath": "C:\\Articles\\word-cloud\\transcription-api\\transcription-api\\transcription.api.infrastructure\\transcription.api.infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\awssdk.core\\3.7.201.6\\awssdk.core.3.7.201.6.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\awssdk.s3\\3.7.203.1\\awssdk.s3.3.7.203.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\awssdk.transcribeservice\\3.7.201.24\\awssdk.transcribeservice.3.7.201.24.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

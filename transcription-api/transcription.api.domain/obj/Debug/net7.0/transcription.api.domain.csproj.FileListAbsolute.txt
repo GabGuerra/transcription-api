@@ -1,0 +1,12 @@
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\bin\Debug\net7.0\transcription.api.domain.deps.json
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\bin\Debug\net7.0\transcription.api.domain.dll
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\bin\Debug\net7.0\transcription.api.domain.pdb
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\obj\Debug\net7.0\transcription.api.domain.csproj.AssemblyReference.cache
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\obj\Debug\net7.0\transcription.api.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\obj\Debug\net7.0\transcription.api.domain.AssemblyInfoInputs.cache
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\obj\Debug\net7.0\transcription.api.domain.AssemblyInfo.cs
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\obj\Debug\net7.0\transcription.api.domain.csproj.CoreCompileInputs.cache
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\obj\Debug\net7.0\transcription.api.domain.dll
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\obj\Debug\net7.0\refint\transcription.api.domain.dll
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\obj\Debug\net7.0\transcription.api.domain.pdb
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.domain\obj\Debug\net7.0\ref\transcription.api.domain.dll

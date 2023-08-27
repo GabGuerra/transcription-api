@@ -1,0 +1,15 @@
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\bin\Debug\net7.0\transcription.api.infrastructure.deps.json
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\bin\Debug\net7.0\transcription.api.infrastructure.dll
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\bin\Debug\net7.0\transcription.api.infrastructure.pdb
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\bin\Debug\net7.0\transcription.api.domain.dll
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\bin\Debug\net7.0\transcription.api.domain.pdb
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\transcription.api.infrastructure.csproj.AssemblyReference.cache
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\transcription.api.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\transcription.api.infrastructure.AssemblyInfoInputs.cache
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\transcription.api.infrastructure.AssemblyInfo.cs
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\transcription.api.infrastructure.csproj.CoreCompileInputs.cache
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\transcription.api.infrastructure.csproj.CopyComplete
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\transcription.api.infrastructure.dll
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\refint\transcription.api.infrastructure.dll
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\transcription.api.infrastructure.pdb
+C:\Articles\word-cloud\transcription-api\transcription-api\transcription.api.infrastructure\obj\Debug\net7.0\ref\transcription.api.infrastructure.dll
